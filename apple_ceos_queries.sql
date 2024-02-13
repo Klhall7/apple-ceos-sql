@@ -1,0 +1,1 @@
+SELECT name, first_year_active FROM apple_ceos ORDER BY first_year_active DESC;
